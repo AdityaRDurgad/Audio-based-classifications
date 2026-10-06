@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+librosa
+tensorflow  # or keras/pytorch depending on your team's preference for the DNN
+matplotlib
+seaborn
