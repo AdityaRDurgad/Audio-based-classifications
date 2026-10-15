@@ -1,0 +1,21 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# Raw and Processed Datasets / Feature Bundles (Too large for Git)
+processed_data/
+data/
+*.npz
+*.pkl
+*.wav
+*.csv
+*.parquet
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
